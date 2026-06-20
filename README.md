@@ -1,6 +1,6 @@
-# Hi, I’m Wonjun :)
+# Hi, I’m Wonjun 🙂
 
-I’m a Biomedical Sciences graduate from the University of Hong Kong (HKU). My current interests include machine learning, health technology, data analysis, and software development, and I’m always open to learning and working across new areas.
+I’m a Biomedical Sciences graduate from the University of Hong Kong (HKU). My current interests include machine learning, health technology, data analysis, and software development, and I’m always open to learning and working across new areas!
 
 My background combines biomedical research with programming and quantitative analysis. I enjoy applying these skills to practical problems across healthcare, technology, and other domains where data and software can make a meaningful difference.
 
