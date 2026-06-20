@@ -34,6 +34,8 @@ Before university, I graduated from high school as valedictorian and served as H
 
 I was also selected as a 2017/18 [Wild Rhino Youth Ambassador](https://wildrhino.org/youth-ambassadors/), working with international conservation NGOs to fight rhino poaching and reduce demand for rhino horn.
 
+I’m a native Korean speaker and professionally proficient in English.
+
 ## Connect
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/wonjunyang).
