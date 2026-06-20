@@ -1,4 +1,4 @@
-# Hi, I’m Wonjun 🙂
+# Hi, I’m Wonjun (Brian) 🙂
 
 I’m a Biomedical Sciences graduate from the University of Hong Kong (HKU). My current interests include machine learning, health technology, data analysis, and software development, and I’m always open to learning and working across new areas!
 
