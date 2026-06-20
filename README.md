@@ -27,3 +27,7 @@ An R-based study comparing Bitcoin with the Nasdaq-100 and gold using daily retu
 ## Other Work
 
 I also maintain public resources covering [web development](https://github.com/anywheredoor/modern-technologies-on-world-wide-web), [computer organization](https://github.com/anywheredoor/computer-organization), and [data structures and algorithms](https://github.com/anywheredoor/BOJ-Problems).
+
+## Background & Leadership
+
+Before university, I graduated from high school as valedictorian and served as Head Boy (student body president).
