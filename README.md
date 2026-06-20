@@ -31,3 +31,7 @@ I also maintain public resources covering [web development](https://github.com/a
 ## Background & Leadership
 
 Before university, I graduated from high school as valedictorian and served as Head Boy (student body president).
+
+## Connect
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/wonjunyang).
