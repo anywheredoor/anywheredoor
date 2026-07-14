@@ -20,7 +20,7 @@ An R study comparing Bitcoin with the Nasdaq-100 and gold through daily returns 
 - **Databases:** PostgreSQL, MySQL, MongoDB
 - **Foundations:** Data structures and algorithms, computer organization, ISA and assembly fundamentals
 
-## Additional Repositories
+## Other Work
 
 I also maintain [web development notes](https://github.com/anywheredoor/modern-technologies-on-world-wide-web), a [computer organization reference guide](https://github.com/anywheredoor/computer-organization), and [data structures and algorithms solutions](https://github.com/anywheredoor/BOJ-Problems).
 
