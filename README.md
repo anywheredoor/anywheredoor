@@ -31,7 +31,7 @@ I also maintain public learning resources on [web development](https://github.co
 
 At HKU, I was named to the **[Dean’s Honours List (2025/26)](https://github.com/anywheredoor/hku-deans-honours-list/blob/main/hku-deans-honours-list-2025-26.pdf)** by the LKS Faculty of Medicine for my final year of study.
 
-Before university, I graduated from high school as valedictorian and served as Head Boy (student body president). I was also selected as a 2017/18 [Wild Rhino Youth Ambassador](https://wildrhino.org/youth-ambassadors/), working with international conservation NGOs to fight rhino poaching and reduce demand for rhino horn.
+Before university, I graduated from high school as valedictorian with the highest GPA in my class and served as Head Boy (student body president). I was also selected as a 2017/18 [Wild Rhino Youth Ambassador](https://wildrhino.org/youth-ambassadors/), working with international conservation NGOs to fight rhino poaching and reduce demand for rhino horn.
 
 I’m a native Korean speaker and professionally proficient in English.
 
