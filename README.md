@@ -28,7 +28,7 @@ I also maintain [web development notes](https://github.com/anywheredoor/modern-t
 
 - Named to the **[Dean’s Honours List (2025/26)](https://github.com/anywheredoor/hku-deans-honours-list/blob/main/hku-deans-honours-list-2025-26.pdf)** by HKU’s LKS Faculty of Medicine for final-year academic performance
 - Graduated from high school as valedictorian with the highest GPA in my class and served as Head Boy (student body president)
-- Selected as a 2017/18 [Wild Rhino Youth Ambassador](https://wildrhino.org/youth-ambassadors/), supporting international conservation efforts against rhino poaching
+- [Wild Rhino Youth Ambassador](https://wildrhino.org/youth-ambassadors/) since 2017, supporting international conservation efforts against rhino poaching
 - Native Korean speaker; professionally proficient in English
 
 ## Connect
