@@ -1,6 +1,6 @@
 # Hi, I’m Wonjun (Brian) 🙂
 
-I’m a multidisciplinary builder who enjoys learning across fields and turning ideas into practical projects. My background is in Biomedical Sciences at the University of Hong Kong (HKU), but my interests extend across machine learning, software development, data analysis, health technology, and solo entrepreneurship.
+I’m a multidisciplinary builder who enjoys learning across fields and turning ideas into practical projects. My background is in Biomedical Sciences at the University of Hong Kong (HKU), but my interests span machine learning, software development, data analysis, solo entrepreneurship, and beyond.
 
 I’m especially interested in connecting ideas from different disciplines and taking them from an early concept to something people can actually use.
 
@@ -37,4 +37,4 @@ I’m a native Korean speaker and professionally proficient in English.
 
 ## Connect
 
-I’m always happy to meet people from different backgrounds and exchange ideas. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/wonjunyang).
+I’m always happy to meet people from different backgrounds and exchange ideas. Feel free to reach me at [wonjuny0923@gmail.com](mailto:wonjuny0923@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/wonjunyang).
