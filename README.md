@@ -1,6 +1,6 @@
 # Hi, I’m Wonjun (Brian) 🙂
 
-I enjoy exploring unfamiliar problems and turning ideas into things people can use. I studied Biomedical Sciences at the University of Hong Kong (HKU), but my interests span machine learning, software, data, solo entrepreneurship, and beyond.
+I enjoy exploring unfamiliar problems and turning ideas into products people genuinely enjoy using. I studied Biomedical Sciences at the University of Hong Kong (HKU), but my interests span machine learning, software, data, solo entrepreneurship, and beyond.
 
 ## Projects
 
